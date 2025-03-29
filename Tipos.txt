@@ -1,0 +1,54 @@
+Pokemon Tipos :
+
+-Water 
+x2 = 2 ( Electric Grass )
+
+-Bug
++ Dragon = x2 = 5
++ Fly = x4 1 x2 4 T 5
+
+-Dark 
++ Bug = x2 5
+
+-Dragon Normal 
+x2 = 4
+-Grass Psichic
+x4 + x2 = 7
+
+-Eletric 
++ Bug = x2 2
+
+-Fire 
++ Psychic = x2 5
++ Water = x2 = 3
+
+-Grass
++ Dragon = x4 1 e x2 5 T6
++ Normal = x2 6
+
+Ground :
++ Bug 
+x2 = 4
++ Fairy = x2 = 4
++ Normal = x2 4
+
+-Ice Psychic 
+x2 = 6
+
+Normal :
++ Ghost = x2 = 2
++ Ground 
+x2 = 4
++Psychic
+x2 = 2
+
+Rock :
++ Fly = x2 5
++ Psychic = x2 7 ( Pior )
+
+-Steel Dragon
+x2 = 2
+
+-Water 
++ Psychic = x2 5
++ Steel = x2 = 3

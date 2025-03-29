@@ -1,0 +1,31 @@
+https://www.smogon.com/dex/sm/formats/ru/
+
+https://www.smogon.com/translations/por/usm-ou-wallbreakers
+
+https://www.smogon.com/articles/wallbreakers-in-ou
+
+Formatos :
+AG > Ubers > OU > UU > RU > NU > PU > ZU
+
+AG
+AG ( Anything Goes )
+
+Ubers
+Ubers 
+
+OU 
+OU (OverUsed) é o nível fundamental baseado em uso da Smogon. Com exceção dos Pokémon banidos para a camada Uber, todos os Pokémon podem ser usados ​​em OU, incluindo Pokémon de UU, RU, NU e PU. Embora todos os Pokémon não-Uber possam ser usados ​​em OU, apenas aqueles Pokémon que representam pelo menos ~3,41% do uso total ponderado na camada são designados como OU. Um Pokémon é verdadeiramente OU se um jogador competitivo típico tiver mais de 50% de probabilidade de encontrar esse Pokémon pelo menos uma vez em um determinado dia de jogo (20 batalhas).
+
+UU
+UU (UnderUsed) é o segundo nível baseado em uso da Smogon . Todos os Pokémon que não são OU por uso e que não são banidos para Ubers ou UUBL podem ser usados ​​em UU, incluindo Pokémon de RU, NU e PU. Embora qualquer um dos Pokémon mencionados acima possa ser usado em UU, apenas aqueles Pokémon que representam pelo menos ~3,41% do uso total ponderado na camada são designados como 'UU'. Um Pokémon é verdadeiramente 'UU' se um jogador competitivo típico tiver mais de 50% de probabilidade de encontrar esse Pokémon pelo menos uma vez em um determinado dia de jogo (20 batalhas).
+
+RU 
+RU (Raramente usado) é o terceiro nível baseado em uso da Smogon . Todos os Pokémon que não são OU ou UU por uso e que não são banidos para Ubers, UUBL ou RUBL podem ser usados ​​em RU, incluindo Pokémon de NU e PU. Embora qualquer um dos Pokémon mencionados acima possa ser usado em RU, apenas aqueles Pokémon que representam pelo menos ~3,41% do uso total ponderado na camada são designados como 'RU'. Um Pokémon é verdadeiramente 'RU' se um jogador competitivo típico tiver mais de 50% de probabilidade de encontrar esse Pokémon pelo menos uma vez em um determinado dia de jogo (20 batalhas). Além de seu subfórum e sala pública no Pokémon Showdown, RU também possui um servidor discord bastante ativo .
+
+ZU 
+ZU ( Zero Used )
+Ex : 
+Geração 1 = Butterfree, Flareon, Hitmonlee e Lickitung
+        2 = Growlithe, Parasect, Unown, Wobbuffet
+        3 = 
+

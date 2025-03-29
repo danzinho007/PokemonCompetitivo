@@ -1,0 +1,77 @@
+Times :
+
+1° Geração 
+2° Geração 
+3° Geração
+4° Geração
+5° Geração
+6° Geração
+7° Geração
+8° Geração
+9° Geração
+Time Inicial
+Time Lendário
+Time Mítico
+Time Normal 
+
+Lead = Pokémon que inicia a partida
+Pivo = Pokémon que entra, resolve e sai
+Setup = Pokémon que se bufa
+Stab = Bônus por usar ataque do mesmo tipo
+WinCon = Pokémon que entra pra virar o jogo ou combar
+
+1-Stall ( Defensivo ou Bulky )
+Hazard Setter = Ataques que sujam o campo do inimigo
+Hazard Control = Limpa seu campo
+Suportes
+Healers
+Ex : Chansey, Kofragius, Scarmory, Porygon-2
+Itens : Eviolite, Leftovers, Rock Helmet
+Moves : Protect, Reflect, Soft-Boiled, Spikes, 
+Stealph Rock, Thunder Wave, Toxic, Will-O-Wisp
+MovesOfen = Taunt, Trick
+
+2-Hyper Offense / Super Ofensivo
+Lead com Taunt / Explosion
+Wallbreakers = Pokémon que quebram barreiras
+Sweepers = Pokémon que elimina 3/4 do inimigo
+Revenge Killers / Cleaners = Pokémon que entra pra vingar outro
+Ex : Dragonite, Metagross, Weaville, Scizor, Darmanitan
+Itens : Choice Band, Choise Scarf, 
+Moves : BulkUp, DragonDance, ExtremeSpeed, IceShard, 
+Pursuit, SwordsDance
+
+3-Balanceado = Fica entre Stall e Hyper Offense
+WinCon = Avaliar a condição de vitória
+Speed Control = Pokémon que controla a velocidade da partida
+Ex : Gyarados, Mamoswine, Scizor, Weaville
+Itens : ChoiceScarf, 
+Moves : 
+
+4-Volt Turn = Força a troca do seu Pokémon
+Ímpeto de Batallha
+Volt Switch
+U-Turn
+Teleport
+Baton Pass
+Ex : Amungoos, Chansey, Esperon, Magnezone, Scizor, Umbreon
+Itens : 
+Moves : Regenerator, Volt Switch, 
+
+5-Trick Room
+Pokémon lento de sweep 
+Ex : Bronzog, Conkelldur, Crondaw, Kofragius, Marowak, Poryon-2, 
+Ursaring
+Itens : 
+Moves : 
+MovesOfen : Taunt
+
+6-Climáticos
+Sandstorm
+Hail
+Rain
+Sun 
+Ex : Abomasnow, Exadrill, Kabutops, Kingdra, Pelipper, Torkoal, Tyranitar, Venusaur
+Itens : ChoiceSpec, 
+Moves : GigaDrain, RainDance, Sandstorm, SludgeBomb, SunnyDay, WeatherBall, 
+

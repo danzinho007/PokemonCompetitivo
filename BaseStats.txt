@@ -1,0 +1,29 @@
+Base Stats dos Pokémon :
+
+100 - 199 = Muito fracos
+
+200 - 299 = Básicos
+
+300 - 399 = Intermediários
+
+400 - 499 = Acima da média
+Raichu
+
+500 - 599 = Fortes
+Lapras
+Nidoking
+Ninetales
+Venusaur
+
+600 - 699 = Pseudo-Lendário
+Dragonite
+
+700 + = Lendário
+
+
+Dragonite = OU
+Lapras    = UU
+Raichu
+Venusaur
+Nidoking
+Ninetales

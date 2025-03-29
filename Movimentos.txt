@@ -1,0 +1,127 @@
+
+https://pokemondb.net/move/all
+https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
+https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
+
+
+https://pokemondb.net/ability
+https://pokemondb.net/item/all
+
+
+Habilidade :
+
+Defeatist = 
+
+Klutz = 
+
+Levitate = 
+
+Minus / Plus = 
+
+Skill Swap = 
+
+Slow Start = 
+
+Stall = Ataca por último
+Sableye com Stall + Payback = OK
+
+Truant = 
+
+---Itens--- :
+
+---Letra C
+
+ChoiceScarf
+Raises Speed, but only one move can be used.
+
+---Letra E
+
+Eviolite
+A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
+
+---Letra F
+Focus Sash = Um item para ser segurado por um Pokémon. Se tiver HP total, o titular sofrerá um ataque potencial de KO, deixando 1 HP.
+
+
+---Movimentos
+
+Prioridade :
+4 : Endure / Protect / Snatch
+1 : SucketPunch
+
+GigaDrain   (Especial) 075 Planta
+Dark Pulse  (Especial) 085 Sombrio = Flinch
+Flamethrower(Especial) 090 Fogo
+IceBeam   (Especial)   090 Gelo
+SludgeBomb(Especial)   090 Veneno
+Surf      (Especial)   090 Água
+Blizzard  (Especial)   110 Gelo
+FireBlast (Especial)   110 Fogo
+
+Bite       (Físico) 060 Sombrio = Flinch
+JaggedFangs(Físico) 070 Pedra   = Atq+
+Slash      (Físico) 070 Normal
+SuckerPunch(Físico) 070 Sombrio
+IcePunch   (Físico) 075 Gelo
+ThunderPunch(Físico)075 Elétrico
+Drill Peck (Físico) 080 Voador
+Body Slam  (Físico) 085 Sombrio = Paralyze
+Fly        (Físico) 090 Voador
+Play Rough (Físico) 090 Fada
+Take Down  (Físico) 090 Normal
+Frustation (Físico) 095 Sombrio
+Cross Chop (Físico) 100 Lutador
+Earthquake (Físico) 100 Terra
+Jump Kick  (Físico) 100 Lutador
+DoubleEdge (Físico) 120 Normal
+Thrash     (Físico) 120 Normal
+
+Depende da Amizade 
+Return (Físico) Poder aumenta com maior Amizade
+Depende do HP 
+Fail (Físico) Quanto menor o HP do usuário, maior será o poder
+
+Geração- Nome- Tipo- Categoria- Poder- Precisão- PP- Descrição
+
+---Letra A
+
+Aceelerock 
+User attacks first.
+
+---Letra B
+
+- Blizzard - Gelo - Especial - 110 - 70 - 5
+Pode congelar o oponente
+
+5- Bulldoze- Terra- Físico- 60- 100%-20 
+O usuário bate em tudo ao seu redor pisando no chão. Isso diminui a estatística de velocidade daqueles atingidos.
+
+---Letra F
+
+- First Impression - Inseto 
+Although this move has great power, it only works the first turn the user is in battle.	
+
+6- Freeze-Dry- Gelo- Especial- 70 100% 20 
+Causa dano e tem 10% de chance de congelar o alvo. Ao contrário de outros movimentos do tipo Gelo , ele causa dano supereficaz a Pokémon do tipo Água , mesmo durante Batalhas Inversas ou se o usuário tiver a Habilidade Normalizar 
+Ex : Mr Mime Galar
+
+---Letra M
+
+Moonblast = May lower opponent's Special Attack.
+
+---Letra P 
+
+Petal Dance - Planta - Especial - 120 - 100 - 10    
+Power Gem ( Pedra ) = 
+
+---Letra R
+
+3- Rock Blast- Pedra- Físico- 25- 90%- 10- 
+O usuário arremessa pedras duras no alvo. Duas a cinco pedras são lançadas em uma fileira.
+
+---Letra S
+
+- Sucker Punch ( Sombrio + 1 ) = User attacks first, but only works if opponent is readying an attack.	
+Ex : Geodude 
+
+---Letra U

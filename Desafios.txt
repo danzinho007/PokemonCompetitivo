@@ -1,0 +1,31 @@
+Desafios :
+
+https://nuzlockeuniversity.ca/
+https://bulbapedia.bulbagarden.net/wiki/Nuzlocke_Challenge
+https://www.youtube.com/watch?v=zK6M3PZzFBg&ab_channel=Kaka-MestrePok%C3%A9mon%21
+
+Randomizer = 
+SoulLink = 
+Versus = 
+
+AvatarLocke = 
+EggLocke = 
+ChessLocke = 
+TagLocke = 
+WedLocke =  
+WonderLocke = 
+ZombieLocke = 
+
+O jogador só pode capturar o primeiro pokémon selvagem encontrado em cada área do jogo. Se esse monstrinho fugir ou for derrotado acidentalmente, o treinador não pode fazer nenhuma outra captura naquela área. Em caso de batalhas em dupla, o jogador pode escolher qual dos dois Pokémon quer capturar.
+
+Qualquer Pokémon que desmaiar em batalha ou fora dela, deve ser considerado morto e libertado por meio de um PC no centro Pokémon. 
+Em caso de Pokémon raro ou brilhante, o treinador pode criar uma Box no PC chamada de cemitério para depositar os monstrinhos que não poderão ser usados em batalha novamente.
+
+Os jogadores precisam dar apelidos para todos os Pokémon capturados. A ideia é criar um laço emocional com o monstrinho que compõe acidentalmente os times de treinadores de Pokémon Nuzlocke.
+
+Os treinadores não podem usar itens de cura durante as batalhas.
+Se todos os Pokémon do time forem derrotados, a partida chega ao “Game Over” e o treinador deve começar a aventura do início, mesmo que tenha outros monstrinhos depositados no PC.
+
+O treinador pode utilizar apenas Pokémon conquistados dentro do jogo, excluindo monstrinhos recebidos por troca e em eventos. A troca só é permitida quando o treinador precisa evoluir uma espécie, como Alakazam ou Gengar.
+
+É proibido tentar reverter uma situação que deu errado, encerrando o jogo e utilizando um ponto de salvamento anterior.
