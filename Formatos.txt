@@ -28,4 +28,3 @@ Ex :
 Geração 1 = Butterfree, Flareon, Hitmonlee e Lickitung
         2 = Growlithe, Parasect, Unown, Wobbuffet
         3 = 
-
